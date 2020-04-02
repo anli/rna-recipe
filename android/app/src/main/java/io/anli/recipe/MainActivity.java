@@ -1,4 +1,4 @@
-package com.recipe;
+package io.anli.recipe;
 
 import com.facebook.react.ReactActivity;
 
