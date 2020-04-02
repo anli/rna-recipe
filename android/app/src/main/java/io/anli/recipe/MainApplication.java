@@ -1,4 +1,4 @@
-package com.recipe;
+package io.anli.recipe;
 
 import android.app.Application;
 import android.content.Context;

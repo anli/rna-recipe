@@ -1,5 +1,5 @@
 // Replace this with your app's package
-package com.recipe;
+package io.anli.recipe;
 
 import com.wix.detox.Detox;
 
